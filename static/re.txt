@@ -1,1 +1,9 @@
-asja
+base64
+io
+json
+supabase
+tenseal
+numpy
+pandas
+joblib
+scikit-learn
